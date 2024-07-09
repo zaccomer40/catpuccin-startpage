@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zaccomer40/catpuccin-startpage/issues"
   },
-  "homepage": "https://github.com/zaccomer40/catpuccin-startpage#readme"
+  "homepage": "https://github.com/zaccomer40/catpuccin-startpage#readme",
+  "dependencies": {
+    "@xterm/xterm": "^5.5.0"
+  }
 }
